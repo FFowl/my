@@ -21,7 +21,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    //sdfsdfsdfggggg
     //dsfsdfsdf
     //diadanadnf,nfd
     UIDynamicAnimator *dynami = [[UIDynamicAnimator alloc] initWithReferenceView:self.view];
